@@ -1,26 +1,26 @@
-# Landslide_02
+# Tomato_leaf_examination
 ## 📦 Dataset
 
 The training dataset is too large to be uploaded directly to GitHub. It has been uploaded to Baidu Netdisk instead:
 
-Download link:：https://pan.baidu.com/s/15BB1e2OVqoMNe](https://pan.baidu.com/s/1UGCXmPZjvcxPfzXmBFcpiw
+Download link:：https://pan.baidu.com/s/1UGCXmPZjvcxPfzXmBFcpiw
 Extraction code:：b4u9
 
 After downloading, extract the dataset and place it in the `datasets/` folder of this project.
 
 ---
 
-## 🧠Landslide_02 Training Guide
+## 🧠Tomato_leaf_examination Training Guide
 
-This project uses the **Landslide_02** model for training on a custom dataset. Follow these steps to set up and train the model:
+This project uses the **Tomato_leaf_examination** model for training on a custom dataset. Follow these steps to set up and train the model:
 
 ### 1. Environment Setup
 
 Make sure you are using Python ≥ 3.8, and create a virtual environment (optional but recommended):
 
 ```bash
-python -m venv Landslide_02
-source Landslide_02/bin/activate  # On Windows: Landslide_02\Scripts\activate
+python -m venv Tomato_leaf_examination
+source Tomato_leaf_examination/bin/activate  # On Windows: Tomato_leaf_examination\Scripts\activate
 ```
 
 Install all required dependencies:
