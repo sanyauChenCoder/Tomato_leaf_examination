@@ -3,16 +3,16 @@
 
 The training dataset is too large to be uploaded directly to GitHub. It has been uploaded to Baidu Netdisk instead:
 
-Download link:：https://pan.baidu.com/s/15BB1e2OVqoMNe
-Extraction code:：ap12
+Download link:：https://pan.baidu.com/s/15BB1e2OVqoMNe](https://pan.baidu.com/s/1UGCXmPZjvcxPfzXmBFcpiw 
+Extraction code:：b4u9
 
 After downloading, extract the dataset and place it in the `datasets/` folder of this project.
 
 ---
 
-## 🧠Landslide_02 Training Guide
+## 🧠Tomato_leaf_examination Training Guide
 
-This project uses the **Landslide_02** model for training on a custom dataset. Follow these steps to set up and train the model:
+This project uses the **Tomato_leaf_examination** model for training on a custom dataset. Follow these steps to set up and train the model:
 
 ### 1. Environment Setup
 
