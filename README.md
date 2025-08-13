@@ -19,8 +19,8 @@ This project uses the **Tomato_leaf_examination** model for training on a custom
 Make sure you are using Python ≥ 3.8, and create a virtual environment (optional but recommended):
 
 ```bash
-python -m venv Landslide_02
-source Landslide_02/bin/activate  # On Windows: Landslide_02\Scripts\activate
+python -m venv Tomato_leaf_examination
+source Tomato_leaf_examination/bin/activate  # On Windows: Tomato_leaf_examination\Scripts\activate
 ```
 
 Install all required dependencies:
